@@ -1,2 +1,0 @@
-# Avisobot
-Auto income 
